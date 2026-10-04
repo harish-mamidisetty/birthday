@@ -98,12 +98,12 @@ svg {
 
 .birthday-photo {
   position: absolute;
-  top: 52%;
+  top: 54%;
   left: 50%;
   transform: translate(-50%, -50%);
 
-  width: 150px;
-  height: 150px;
+  width: 220px;
+  height: 220px;
 
   object-fit: cover;
   border-radius: 50%;
