@@ -88,6 +88,10 @@ button {
   cursor: pointer;
 }
 
+#play-music {
+  display: none;
+}
+
 svg {
   width: 3.5vh;
 }
@@ -112,16 +116,4 @@ svg {
     0 0 45px #ff69b4;
 
   z-index: 5;
-}
-.birthday-photo {
-  pointer-events: none;
-}
-
-#play-music {
-  position: absolute;
-  top: 67%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 30;
-  cursor: pointer;
 }
